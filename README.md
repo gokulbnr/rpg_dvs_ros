@@ -97,6 +97,18 @@ NOTE: substitute any mention of kinetic in the following instruction with the na
 
    A guide on how to modify the parameters in the bottom half of the GUI (biases) can be found here: https://inivation.github.io/inivation-docs/Advanced%20configurations/User_guide_-_Biasing.html
 
+# Driver Installation using Mamba
+
+Setup [Robostack]{https://robostack.github.io/index.html}
+
+Activate mamba environment and install dependencies:
+`$ mamba activate <env_name>`
+`$ mamba install ros-noetic-camera-info-manager`
+`$ mamba install ros-noetic-image-view`
+`$ mamba install libcaer`
+`$ mamba install catkin-tools`
+Then continue above from step 4. 
+
 
 # Calibration
 
