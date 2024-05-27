@@ -99,7 +99,7 @@ NOTE: substitute any mention of kinetic in the following instruction with the na
 
 # Driver Installation using Mamba
 
-Setup [Robostack]{https://robostack.github.io/index.html}
+Setup [Robostack]{https://robostack.github.io/index.html} with `python=3.9` 
 
 Activate mamba environment and install dependencies:
 
